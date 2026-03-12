@@ -1,6 +1,6 @@
 <div align="center">
 
-  open  (https://shreemantyogi.onrender.com/} "DEPLOYED HERE"
+  (https://shreemantyogi.onrender.com/} "DEPLOYED HERE"
   
 
 <br/>
