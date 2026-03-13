@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-# 🚩 **Shreemantyogi**
+# 🚩 **SHREEMANTYOGI**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=36&pause=1000&color=F4D789&center=true&vCenter=true&width=500&lines=The+Founder+of+Swarajya;Jai+Bhavani%2C+Jai+Shivaji!" alt="Typing SVG" />
 
