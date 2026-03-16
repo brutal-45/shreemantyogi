@@ -454,7 +454,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Chhatrapati Shivaji Maharaj** (1630 - 1680) 
+**Chhatrapati Shivaji Maharaj** (1630 - 1680) . 
 
 *Founder of the Maratha Empire and pioneer of Hindavi Swarajya*
 
