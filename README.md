@@ -283,7 +283,7 @@ bun or npm
 
 4. **Open in browser**
    ```
-   open [https://shreemantyogi.onrender.com/) deployed here
+   open [open in your localhost) 
 
    ```
 
