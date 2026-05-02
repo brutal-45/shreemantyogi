@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-[![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=appveyor)]()
+[![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=appveyor)]() 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
